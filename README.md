@@ -1,7 +1,7 @@
 ## Kraken 2 / Bracken Refseq indexes
 
 | Collection | Contains |	Date | Archive size (GB) | Index size (GB) | HTTPS URL	| Bracken | Kraken2 |
-|:-----------|:--------:|:----:|:-----------------:|:---------------:|:----------:| :--------------:|:--------------:| 
+|:-----------|:--------:|:----:|:-----------------:|:---------------:|:----------:| :----------------------:|:--------------:| 
 | Viral	     |Refeq viral	| 6/5/2023 |	0.5	| 0.6	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_viral_20230605.tar.gz) | Y (6/7/2022	prebuilt only) | Y |
 | MinusB	   |Refeq archaea, viral, plasmid, human1, UniVec_Core |6/5/2023	|6.5	|9.4	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_minusb_20230605.tar.gz) | Y  (6/7/2022	& 5/17/2021 prebuilt only)  | Y |
 | Standard	 |Refeq archaea, bacteria, viral, plasmid, human1, UniVec_Core	| 6/5/2023 | 51 |	67	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_standard_20230605.tar.gz)	| Y  (6/7/2022 & 5/17/2021 prebuilt only)  | Y|
