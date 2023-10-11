@@ -18,11 +18,13 @@
 
 ## Kraken 2 / Bracken 16s RNA indexes
 
-| Collection      |  version      | Size (MB)     | HTTPS URL     | Avail on Galaxy  |
-|:----------------|:-------------:|:-------------:|:----------------:|:----------------:|
-| Greengenes      |   13.5        | 73.2          | [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/16S_Greengenes13.5_20200326.tgz)    | N |
-| RDP             |   11.5        | 168           | [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/16S_RDP11.5_20200326.tgz)           | N |
-| Silva           |   132         | 117           | [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/16S_Silva132_20200326.tgz)          | N |
-| Silva           |   138         | 112	          | [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/16S_Silva138_20200326.tgz)          | N |
+| Collection      |  latest version | Size (MB)     | HTTPS URL     | Bracken  | Kracken2 |
+|:----------------|:-------------:|:-------------:|:---------------:|:----------------:|:----------------:|
+| Greengenes      |   13.5        | 73.2          | [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/16S_Greengenes13.5_20200326.tgz)   | N | Y |
+| RDP             |   11.5        | 168           | [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/16S_RDP11.5_20200326.tgz)          | N | Y |
+| Silva           |   132         | 117           | [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/16S_Silva132_20200326.tgz)         | N | Y |
+| Silva           |   138         | 112	          | [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/16S_Silva138_20200326.tgz)         | Y | Y |
 
 Reference URL: https://benlangmead.github.io/aws-indexes/k2
+
+Bracken DBs are formatted as databaseXmers.kmer_distrib: https://github.com/jenniferlu717/Bracken
