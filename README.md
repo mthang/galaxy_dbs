@@ -7,10 +7,10 @@
 | Standard	 |Refeq archaea, bacteria, viral, plasmid, human1, UniVec_Core	| 6/5/2023 | 51 |	67	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_standard_20230605.tar.gz)	| Y  (6/7/2022 & 5/17/2021 prebuilt only)  | Y|
 | Standard-8 |Standard with DB capped at 8 GB	 | 6/5/2023	 | 5.5 |	7.5	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_standard_08gb_20230605.tar.gz)	| N | Y |
 | Standard-16|Standard with DB capped at 16 GB |	6/5/2023 | 11	 |  15	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_standard_16gb_20230605.tar.gz)	| N | Y |
-| PlusPF	   |Standard plus Refeq protozoa & fungi |	6/5/2023	| 55	| 71	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_pluspf_20230605.tar.gz)	|Y| Y|
+| PlusPF	   |Standard plus Refeq protozoa & fungi |	6/5/2023	| 55	| 71	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_pluspf_20230605.tar.gz)	|Y (6/7/2022 prebuilt only) | Y|
 | PlusPF-8	 |PlusPF with DB capped at 8 GB	|6/5/2023	| 5.5	| 7.5	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_pluspf_08gb_20230605.tar.gz)	|N|Y|
 | PlusPF-16	 |PlusPF with DB capped at 16 GB |	6/5/2023	| 11	| 15 | [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_pluspf_16gb_20230605.tar.gz)	|Y|Y|
-| PlusPFP	   |Standard plus Refeq protozoa, fungi & plant	| 6/5/2023	| 108	| 148 |	[tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_pluspfp_20230605.tar.gz)	|N|Y|
+| PlusPFP	   |Standard plus Refeq protozoa, fungi & plant	| 6/5/2023	| 108	| 148 |	[tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_pluspfp_20230605.tar.gz)	|Y (6/7/2022 prebuilt only)|Y|
 | PlusPFP-8	 |PlusPFP with DB capped at 8 GB	| 6/5/2023	| 5.1 |	7.5	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_pluspfp_08gb_20230605.tar.gz)	|N|Y|
 | PlusPFP-16 |PlusPFP with DB capped at 16 GB	| 6/5/2023	| 10	| 15	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_nt_20230502.tar.gz)	|N|Y|
 | nt Database|Very large collection, inclusive of GenBank, RefSeq, TPA and PDB	| 5/2/2023 |	360	| 480 |[tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_nt_20230502.tar.gz)	|N|Y|
