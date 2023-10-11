@@ -2,9 +2,9 @@
 
 | Collection | Contains |	Date | Archive size (GB) | Index size (GB) | HTTPS URL	| Bracken | Kraken2 |
 |:-----------|:--------:|:----:|:-----------------:|:---------------:|:----------:| :--------------:|:--------------:| 
-| Viral	     |Refeq viral	| 6/5/2023 |	0.5	| 0.6	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_viral_20230605.tar.gz) | Y | Y |
-| MinusB	   |Refeq archaea, viral, plasmid, human1, UniVec_Core |6/5/2023	|6.5	|9.4	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_minusb_20230605.tar.gz) | Y | Y |
-| Standard	 |Refeq archaea, bacteria, viral, plasmid, human1, UniVec_Core	| 6/5/2023 | 51 |	67	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_standard_20230605.tar.gz)	| Y | Y|
+| Viral	     |Refeq viral	| 6/5/2023 |	0.5	| 0.6	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_viral_20230605.tar.gz) | Y (6/7/2022	prebuilt only) | Y |
+| MinusB	   |Refeq archaea, viral, plasmid, human1, UniVec_Core |6/5/2023	|6.5	|9.4	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_minusb_20230605.tar.gz) | Y  (6/7/2022	& 5/17/2021 prebuilt only)  | Y |
+| Standard	 |Refeq archaea, bacteria, viral, plasmid, human1, UniVec_Core	| 6/5/2023 | 51 |	67	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_standard_20230605.tar.gz)	| Y  (6/7/2022 & 5/17/2021 prebuilt only)  | Y|
 | Standard-8 |Standard with DB capped at 8 GB	 | 6/5/2023	 | 5.5 |	7.5	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_standard_08gb_20230605.tar.gz)	| N | Y |
 | Standard-16|Standard with DB capped at 16 GB |	6/5/2023 | 11	 |  15	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_standard_16gb_20230605.tar.gz)	| N | Y |
 | PlusPF	   |Standard plus Refeq protozoa & fungi |	6/5/2023	| 55	| 71	| [tar.gz](https://genome-idx.s3.amazonaws.com/kraken/k2_pluspf_20230605.tar.gz)	|Y| Y|
